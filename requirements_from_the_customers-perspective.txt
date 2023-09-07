@@ -1,0 +1,42 @@
+  4. & 5. 
+Identifying decision makers & Reaching agreement on requirements. 
+  (
+    tựa câu hỏi để trong 1 slide,
+    link ảnh: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ftcguardian.com%2Farticles%2Fwp-content%2Fuploads%2F2017%2F06%2FDepositphotos_22928632_l-2015.jpg&f=1&nofb=1&ipt=d9496cd9f6f7be43ad792af386d663c96ae2d56169f761ee11960e0162c3aa12&ipo=images"
+  )
+    Customers often don’t have the time or patience to participate in requirements activities.   |
+    In many cases, project participants don’t even agree on what a “requirement” is.             |
+    As one writer observed,                                                                      |--> này để trong slide tiếp theo.
+            “Engineers would rather decipher the words to the Kingsmen’s 1963 classic party song |
+             ‘Louie Louie’ than decipher customer requirements”                                  |
+             (Peterson 2002)                                                                     |
+  (
+    link ảnh: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1RZJ4ESU52U%2Fhqdefault.jpg&f=1&nofb=1&ipt=f4409379732eb1174e678d0d1cc8f1f059f4ddefc9f6b32e4706d7019e5853cd&ipo=images"
+  )
+    -Identify the stakeholders.
+      (tên tựa mục, để trong slide tiếp theo)
+        +Stakeholders are anyone who has an interest,                             |
+          influence, or impact on the software, such as users,                    |--> định nghĩa, để chung với tựa mục.
+          customers, managers, sponsors, developers, testers, regulators, etc.    |
+    -Define the scope.
+      (tên tựa mục, để trong slide tiếp theo)
+        +The scope is the boundary and the extent of what the software            |
+          will and will not do. It helps you to prioritize and focus on           |--> định nghĩa, để chung với tựa mục.
+          the most important and feasible features and functions.                 |
+    -Elicit the requirement.
+      (tên tựa mục, để trong slide tiếp theo)
+        +Elicitation is the process of discovering,                               |--> định nghĩa, để chung với tựa mục.
+          analyzing, and documenting the software requirements.                   |
+    -Validate the requirements.
+      (tên tựa mục, để trong slide tiếp theo)
+        +Validation is the process of checking that the requirements are correct, |
+          complete, consistent, clear, testable, and aligned with the project     |--> định nghĩa, để chung với tựa mục.
+          objectives and stakeholder needs.                                       |
+    -Manage the requirements.
+      (tên tựa mục, để trong slide tiếp theo)
+        +Management is the process of controlling, tracking,                      |--> định nghĩa, để chung với tựa mục.
+          and communicating the changes and updates to the requirements.          |
+    -Negotiate the requirements.
+      (tên tựa mục, để trong slide tiếp theo)
+        +Negotiation is the process of resolving the conflicts, trade-offs,       |--> định nghĩa, để chung với tựa mục.
+        or disagreements among the stakeholders regarding the requirements        |
